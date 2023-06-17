@@ -1,0 +1,5 @@
+DROP TABLE IF EXISTS "post_likes";
+DROP TABLE IF EXISTS "post";
+DROP TABLE IF EXISTS "followers";
+DROP TABLE IF EXISTS "user";
+DROP TABLE IF EXISTS "base_table";
